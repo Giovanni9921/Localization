@@ -8,11 +8,11 @@
 \n✓ Nessuna pubblicit&agrave;.
 \n✓ Mirroring dello schermo
 \n✓ Tastiera estesa
-\n✓ 70+  telecomandi
+\n✓ 70+  azioni
 \n✓ Android Wear
 \n✓ Widgets &amp; Azioni rapide
 \n✓ Comandi vocali
-\n✓ Telecomandi personalizzati
+\n✓ Azioni personalizzate
 \n✓ Azioni IR
 \n✓ Azioni NFC
     </string>
@@ -28,9 +28,9 @@
     <string name="share_dialog_createuri_text">Usa una stringa URI per attivare un\'azione.</string>
 
     <!-- Custom Remote Ask -->
-    <string name="custom_ask_title">Telecomandi personalizzati</string>
-    <string name="custom_ask_has_message">Ehi! Sembra che stai utilizzando telecomandi personalizzati. Puoi condividerli nella nostra nuova community.</string>
-    <string name="custom_ask_not_message">Ehi! Lo sapevi che abbiamo un sito di community dove e\' possibile trovare e condividere telecomandi personalizzati?</string>
+    <string name="custom_ask_title">Azioni personalizzate</string>
+    <string name="custom_ask_has_message">Ehi! Sembra che stai utilizzando delle azioni personalizzate. Puoi condividerle nella nostra nuova community.</string>
+    <string name="custom_ask_not_message">Ehi! Lo sapevi che abbiamo un sito di community dove e\' possibile trovare e condividere azioni personalizzate?</string>
 
     <!-- Rate -->
     <string name="rate_message">Hai usato questa applicazione per un po\' di tempo. Ci vuoi dare 5 stelle? Non ti preoccupare, non insisteremo altre volte.</string>
@@ -38,8 +38,8 @@
 
     <!-- Titles -->
     <string name="title_welcome">Benvenuto</string>
-    <string name="title_remotes">Telecomandi</string>
-    <string name="title_remote">Telecomando</string>
+    <string name="title_remotes">Azioni</string>
+    <string name="title_remote">AZioni</string>
     <string name="title_preferences">Preferenze</string>
     <string name="title_preferences_ir">Preferenze IR</string>
     <string name="title_servers">Servers</string>
@@ -76,7 +76,7 @@
 
     <!-- Status Screen -->
     <string name="status_general">Generale</string>
-    <string name="status_connection">Collegamento</string>
+    <string name="status_connection">Connessione</string>
     <string name="status_misc">Vari</string>
     <string name="status_version">Versione</string>
     <string name="status_time">Tempo</string>
@@ -104,10 +104,10 @@
 
     <!-- Evaluation -->
     <string name="eval_expired">Valutazione scaduta</string>
-    <string name="eval_expired_message">Il tempo di valutazione per questa versione &egrave; scaduta. Solo le funzionalit&agrave; della versione gratuita saranno disponibili da ora in poi. Contattaci a www.unifiedremote.com Se vuoi vivere una nuova versione di valutazione.</string>
+    <string name="eval_expired_message">Il tempo di valutazione per questa versione &egrave; scaduta. Solo le funzionalit&agrave; della versione gratuita saranno disponibili da ora in poi. Contattaci a www.unifiedremote.com Se vuoi usare una nuova versione di valutazione.</string>
 
     <!-- Shortcut -->
-    <string name="shortcut_title">Seleziona Telecomando</string>
+    <string name="shortcut_title">Seleziona Azione</string>
 
     <!-- Coach -->
     <string name="coach_navigate_tablet">Il layout Tablet pu&ograve; essere disattivato nelle preferenze</string>
@@ -173,7 +173,7 @@
     <string name="welcome2_done_ir_no_device_text2">Il dispositivo potrebbe non essere supportato</string>
 
     <!-- Home / Menu -->
-    <string name="home_remotes">Telecomandi</string>
+    <string name="home_remotes">Azioni</string>
     <string name="home_servers">Server</string>
     <string name="home_preferences">Preferenze</string>
     <string name="home_editor">Editor</string>
@@ -240,20 +240,20 @@
     <string name="pref_quick_actions_summary">Modifica le azioni rapide.</string>
     <string name="pref_widgets_title">Widgets</string>
     <string name="pref_widgets_summary">Gestione dei widget.</string>
-    <string name="pref_default_remotes_list_title">Elenco di telecomandi</string>
-    <string name="pref_default_remotes_list_summary">Selezionare elenco predefinito per telecomandi e azioni.</string>
+    <string name="pref_default_remotes_list_title">Elenco delle azioni</string>
+    <string name="pref_default_remotes_list_summary">Selezionare elenco predefinito per le azioni.</string>
     <string name="pref_theme_title">Tema</string>
     <string name="pref_theme_summary">Imposta il colore del tema predefinito.</string>
     <string name="pref_theme_list_title">Seleziona tema</string>
-    <string name="pref_remotes_title">Layout di telecomandi</string>
+    <string name="pref_remotes_title">Layout delle azioni.</string>
     <string name="pref_remotes_summary">Imposta il layout di visualizzazione di telecomandi.</string>
     <string name="pref_remotes_list_title">Seleziona layout</string>
-    <string name="pref_visible_title">Telecomandi visibili</string>
-    <string name="pref_visible_summary">Seleziona i telecomandi visibili nella lista principale.</string>
-    <string name="pref_visible_dialog_title">Seleziona telecomandi</string>
+    <string name="pref_visible_title">Azioni visibili</string>
+    <string name="pref_visible_summary">Seleziona le azioni visibili nella lista principale.</string>
+    <string name="pref_visible_dialog_title">Seleziona azioni</string>
     <string name="pref_switch_title">Cambio rapido</string>
-    <string name="pref_switch_summary">Selezionare telecomandi per il cambio rapido.</string>
-    <string name="pref_switch_dialog_title">Seleziona telecomandi</string>
+    <string name="pref_switch_summary">Selezionare le azioni per il cambio rapido.</string>
+    <string name="pref_switch_dialog_title">Seleziona azioni</string>
     <string name="pref_orientation_title">Blocco orientamento</string>
     <string name="pref_orientation_summary">Imposta un blocco di orientamento.</string>
     <string name="pref_orientation_list_title">Seleziona blocco</string>
@@ -329,7 +329,7 @@
     <string name="diag_connection_error">Impossibile stabilire una connessione al server. Controlla le impostazioni di rete e server e riprova.</string>
     <string name="diag_compat_title">Modalit&agrave; compatibilit&agrave;</string>
     <string name="diag_compat_message">E\' attiva la modalit&agrave; di compatibilit&agrave;. Alcune funzioni o telecomandi non siano disponibili. Consigliamo vivamente di aggiornare il server alla versione pi&ugrave; recente.</string>
-    <string name="diag_new_remotes_title">Nuovi telecomando/i</string>
+    <string name="diag_new_remotes_title">Nuove azioni/i</string>
 
     <!-- Misc -->
     <string name="bt_unnamed">&lt;Senza nome&gt;</string>
