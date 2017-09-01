@@ -17,7 +17,7 @@ Funzionalità principali:
 
 <% if (ANDROID) { %>
 La versione completa include:
-• Oltre 90 telecomandi 
+• Oltre 90 AZioni 
 • Widget e operazioni rapide
 • Comandi vocali
 • Telecomandi personalizzati
@@ -28,7 +28,7 @@ La versione completa include:
 <% if (IOS) { %>
 Sia l'app Unified Remote che il server sono scaricabili e utilizzabili gratuitamente. Funzionalità e telecomandi aggiuntivi disponibili tramite acquisti In-App.
 
-• Acquista telecomandi aggiuntivi per $0,99 
+• Acquista azioni aggiuntive per $0,99 
 • Acquista funzionalità aggiuntive per $0,99 
 • Unified Remote versione completa, con tutte le funzionalità e i telecomandi, disponibile a $3,99
 <% } %>
@@ -60,7 +60,7 @@ Power, Monitor, Files, Task Manager, Commands, etc.
 <b>All Remotes</b>
 https://www.unifiedremote.com/remotes
 
-Attenzione: alcuni telecomandi sono disponibili solo per determinati sistemi operativi.
+Attenzione: alcune azioni sono disponibili solo per determinati sistemi operativi.
 
 <% if (ANDROID) { %>
 <%= PERMISSIONS %>
