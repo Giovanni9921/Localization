@@ -56,7 +56,7 @@
 
     <!-- Editor2 Wizard -->
     <string name="editor2_wizard_typeofaction">Tipo di Azione</string>
-    <string name="editor2_wizard_remoteaction">Azione Telecomando</string>
+    <string name="editor2_wizard_remoteaction">Azione remota</string>
     <string name="editor2_wizard_action">Azione</string>
     <string name="editor2_wizard_openremote">Apri Telecomando</string>
     <string name="editor2_wizard_remote">Telecomando</string>
