@@ -2,13 +2,13 @@ Tastiera estesa
 Sblocca funzionalità avanzate per la tastiera.
 
 Elenco telecomandi esteso
-Sblocca funzionalità avanzate per l'elenco dei telecomandi.
+Sblocca funzionalità avanzate per l'elenco delle azioni.
 
-Telecomando aggiuntivo
-Sblocca un telecomando aggiuntivo.
+Azione aggiuntiva
+Sblocca un azione aggiuntiva.
 
 Versione completa
-Sblocca tutte le funzionalità e i telecomandi.
+Sblocca tutte le funzionalità e le azioni.
 
 Passaggio rapido
-Consente di passare rapidamente da un telecomando a un altro.
+Consente di passare rapidamente da un azione a un'altra.
